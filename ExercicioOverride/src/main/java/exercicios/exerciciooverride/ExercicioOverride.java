@@ -9,7 +9,6 @@ package exercicios.exerciciooverride;
  * @author allan
  */
 public class ExercicioOverride {
-    
     public static void main(String[] args) {
         
         

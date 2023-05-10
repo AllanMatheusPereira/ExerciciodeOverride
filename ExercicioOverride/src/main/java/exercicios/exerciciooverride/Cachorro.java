@@ -3,13 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package exercicios.exerciciooverride;
-
 /**
  *
  * @author allan
  */
 public class Cachorro extends Animal{
-    
     
     @Override
     public void emitirSom(){
