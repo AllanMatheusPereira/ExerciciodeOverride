@@ -8,6 +8,7 @@ package exercicios.exerciciooverride;
  *
  * @author allan
  */
+
 public class Animal {
     public void emitirSom(){
         System.out.println("O animal está indefinido, ele não emite som");   
